@@ -1,5 +1,5 @@
 // le mie variabili
-
+let userNome, userCognome, userColore, messaggio
 
 // chiediamo all'utente il suo nome
 
